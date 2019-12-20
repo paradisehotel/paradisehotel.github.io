@@ -36,12 +36,6 @@ html{
     height: 100px;
   }
 
-  @media (min-width: 768px){
-    .tambah{
-      width: 190px;
-    }
-  }
-
 @media (min-width: 992px) {
   .tombol{
     margin-left: 480px;
